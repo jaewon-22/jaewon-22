@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jaewon Tudor
+# Justin Tudor
 
 > AI/ML Engineer • LLMs • Finetuning • Inference Optimisation
 
@@ -76,5 +76,5 @@ I enjoy taking models from research → product, improving latency, reducing cos
 
 ### � Contact
 
-**LinkedIn:** linkedin.com/in/justin-tudor
+**LinkedIn:** [linkedin.com/in/justin-tudor](https://www.linkedin.com/in/justin-tudor-07b7b4355/)
 **Email:** tudor22@naver.com
