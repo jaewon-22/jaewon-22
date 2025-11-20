@@ -2,7 +2,7 @@
 
 # Justin Tudor
 
-> AI/ML Engineer • LLMs • Finetuning • Inference Optimisation
+> Data Analyst | AI/ML | GCP | Cloud AI | MSc Artificial Intelligence
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)
